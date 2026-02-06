@@ -21,21 +21,7 @@ A modern, feature-rich Task Tracker application built with React, Vite, and Fram
 *   **Data Portability**: Export your tasks to JSON and Import them anywhere.
 *   **Persistence**: All data is automatically saved to LocalStorage.
 
-## 🖼️ Visuals
-
-### Dashboard & Analytics
-![Charts](assets/chart.png)
-*Real-time breakdown of your tasks by status and priority.*
-
-### Task Management
-![Task Item](assets/task-item.png)
-*Clean task items with clear badges for Priority and Category.*
-
-### Editing Power
-![Edit Mode](assets/edit-mode.png)
-*Grid-based edit mode for quick updates.*
-
-## 🛠️ Tech Stack
+## ️ Tech Stack
 
 *   **Core**: React 18, Vite
 *   **Styling**: CSS Modules, CSS Variables (Theming), Responsive Grid/Flexbox
